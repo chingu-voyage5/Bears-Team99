@@ -1,0 +1,23 @@
+#content{
+	text-align: center;
+	padding-top: 25%;
+	
+	margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+body{
+	background-image: url("file:///home/santhosh/Downloads/Image%20Gallery_files/photo-1445205170230-053b83016050.jpeg");
+	
+}
+.collapse navbar-collapse{
+	border: 2px solid pink;
+}
+.btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+    background-color: blanchedalmond;
+}
